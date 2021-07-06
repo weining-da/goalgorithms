@@ -1,0 +1,2 @@
+# goalgorithms
+Go algorithm stuffs
